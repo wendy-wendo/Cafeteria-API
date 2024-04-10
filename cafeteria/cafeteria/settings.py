@@ -30,6 +30,8 @@ ALLOWED_HOSTS = []
 
 # Application definition
 
+STATIC_ROOT = 'staticfiles'
+
 INSTALLED_APPS = [
     'api',
 
